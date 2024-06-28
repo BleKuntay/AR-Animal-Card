@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="wolf-card" size="1.000000 1.407295" />
+    <ImageTarget name="penguin-card" size="1.000000 1.504065" />
+    <ImageTarget name="tiger-card" size="1.000000 1.444954" />
+    <ImageTarget name="deer-card" size="1.000000 1.415423" />
+    <ImageTarget name="bear-card" size="1.000000 1.432836" />
+  </Tracking>
+</QCARConfig>
